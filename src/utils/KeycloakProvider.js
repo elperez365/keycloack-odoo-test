@@ -9,7 +9,7 @@ const getKeycloakInstance = () => {
       url: "https://keycloack.allcore.it:8443",
       realm: "CS",
       clientId: "app-test-keycloak",
-      clientSecret: "GpgWphvDPcrOmhpQiJKEt4YRk827mn4D",
+      // clientSecret: "f2eMNsH5zY6OlhTytBEtCHeLQdAi42lm",
     });
   }
   return keycloak;
